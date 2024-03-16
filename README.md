@@ -1,5 +1,3 @@
-Bárbara Luisa Crispim Ribeiro 
-ATIVIDADE 02 – GitHub 
 Passo a passo – Como clonar um repositório no GitHub 
 1.	No GitHub.com, vá até o repositório da atividade:
   https://github.com/BarbaraLuisa12/libmatematica 
